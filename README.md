@@ -16,7 +16,7 @@ Land Mark package helps you generate collection data by manipulate parameter in 
 
 ![image.png](image%201.png)
 
-Land Mark supports manipulate in common collection datatypes like table, frame, document/object rows that has version control management.
+Land Mark supports manipulate in common collection datatypes like table, frame, document/object rows that has version control management, keeps data in one place as Land Mark cloud.
 
 ![image.png](image%202.png)
 
