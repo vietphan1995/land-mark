@@ -29,4 +29,4 @@ In advance, Land Mark improves research and analysis, creates more solution prod
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/land-mark-2575e832d6ee8025bcc5c55f43b71933
+https://maianhcorporation.notion.site/land-mark-2575e832d6ee8025bcc5c55f43b71933
